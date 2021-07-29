@@ -1,0 +1,100 @@
+
+
+.bg-back{
+    background:#264653;
+    
+}
+.my-btn{
+    background-color: #E76F51;
+    /* margin-left: 20px; */
+}
+
+.bike-color{
+    filter: grayscale(100%);
+}
+.para-color{
+    color: #E76F51;
+    ;
+}
+
+.fas fa{
+    color: #E76F51;
+    transform: rotate(175.73deg);
+}
+.my-btn1{
+    color: #E76F51;
+    border: 1px solid #E76F51 ;
+    background-color: #fff;
+    font-weight: 600;
+}
+
+.my-btn1:hover{
+    color: #fff;
+    border: 1px solid #E76F51 ;
+    background-color: #E76F51;
+    font-weight: 600;
+    transition: 2s;
+}
+.text-color{
+    color: #E76F51;
+}
+.icon{
+    color: #E76F51;
+    margin-left: 120px;
+    font-size: 13px;
+    font-weight: 50;
+}
+.bike-hov1:hover{
+        animation: flash; 
+        animation-duration: 2s; 
+        
+}
+
+.bike-hov2:hover{
+    animation: bounce; 
+    animation-duration: 2s; 
+    
+}
+.bike-hov3:hover{
+    animation: pulse; 
+    animation-duration: 2s; 
+    
+}
+
+.bike-hov4:hover{
+    animation: swing; 
+    animation-duration: 2s; 
+    
+}.bike-hov5:hover{
+    animation: tada; 
+    animation-duration: 2s; 
+    
+}
+
+.bike-hov6:hover{
+    animation: wobble; 
+    animation-duration: 2s; 
+    
+}
+.bike-hov7:hover{
+    animation: jello; 
+    animation-duration: 2s; 
+    
+}
+.info{
+    color: #E76F51;
+    ;
+}
+.form-bg{
+    background-color: #264653;;
+    color: #fff;
+}
+.app{
+    background: black !important;
+}
+.bg-color{
+    background-color: black;
+}
+
+
+font-family : 'Poppins';
